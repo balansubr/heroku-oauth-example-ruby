@@ -3,7 +3,7 @@
     "description": "Clone of Heroku OAuth Sample that displays user's email ID after OAuth with Heroku provider",
     "keywords": ["OAuth", "heroku", "sample"],
     "urls": {
-        "website": "",
+        "website": "https://github.com/balansubr/heroku-oauth-example-ruby",
         "success": "/getting-started"
     },
     "scripts": {
