@@ -39,3 +39,14 @@ get "/user" do
     HTML
   end
 end
+
+get "/getting-started" do
+  <<-HTML
+    Try this app:
+    <ol>
+      <li>Go to the provisioned app's URL</li>
+      <li>Log into a different heroku ID</li>
+      <li>See the email address</li>
+    </ol>
+  HTML
+end
