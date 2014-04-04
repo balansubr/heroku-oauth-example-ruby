@@ -11,7 +11,7 @@
     },
     "env": {
         "HEROKU_OAUTH_ID": {
-            "description": "You get this by registering as a OAuth client with Heroku",
+            "description": "You get this by registering as a OAuth client with Heroku"
         },
         "HEROKU_OAUTH_SECRET": {
             "description": "You get this by registering as a OAuth client with Heroku",
