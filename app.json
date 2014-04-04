@@ -5,29 +5,6 @@
     "urls": {
         "website": "https://github.com/balansubr/heroku-oauth-example-ruby",
         "success": "/getting-started"
-    },
-    "scripts": {
-
-    },
-    "env": {
-        "HEROKU_OAUTH_ID": {
-            "description": "You get this by registering as a OAuth client with Heroku"
-        },
-        "HEROKU_OAUTH_SECRET": {
-            "description": "You get this by registering as a OAuth client with Heroku",
-            "default": "Dummy Secret"
-        },
-        "COOKIE_SECRET": {
-            "description": "This gets generated",
-            "generator": "secret"
-        },
-        "NUM_RETRIES": {
-            "description": "This isn't used now but maybe used later",
-            "default": 3
-        }
-    },
-    "addons": [
-        "openredis",
-        "mongolab:shared-single-small"
-    ]
+    }
 }
+
