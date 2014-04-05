@@ -6,6 +6,9 @@
         "website": "https://github.com/balansubr/heroku-oauth-example-ruby",
         "success": "/getting-started"
     },
+    "scripts": {
+
+    },
     "env": {
         "HEROKU_OAUTH_ID": {
             "description": "You get this by registering as a OAuth client with Heroku"
