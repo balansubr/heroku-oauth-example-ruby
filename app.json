@@ -25,6 +25,10 @@
             "description": "This isn't used now but maybe used later",
             "default": 3
         }
-    }
+    },
+    "addons": [
+        "openredis",
+        "mongolab:shared-single-small"
+    ]
 }
 
